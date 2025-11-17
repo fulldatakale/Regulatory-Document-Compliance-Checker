@@ -1,0 +1,31 @@
+{
+  "name": "regulatory-guidelines",
+  "fields": [
+    {
+      "name": "id",
+      "type": "Edm.String",
+      "key": true,
+      "searchable": false
+    },
+    {
+      "name": "guideline_name",
+      "type": "Edm.String",
+      "searchable": true
+    },
+    {
+      "name": "requirement",
+      "type": "Edm.String",
+      "searchable": true
+    },
+    {
+      "name": "section",
+      "type": "Edm.String",
+      "searchable": true
+    },
+    {
+      "name": "source",
+      "type": "Edm.String",
+      "searchable": true
+    }
+  ]
+}

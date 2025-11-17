@@ -1,0 +1,9 @@
+azure-ai-formrecognizer
+azure-core
+azure-search-documents
+openai
+streamlit
+python-dotenv
+PyPDF2
+beautifulsoup4
+requests

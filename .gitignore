@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+*.pdf
+regulatory_docs/
+temp_doc.pdf

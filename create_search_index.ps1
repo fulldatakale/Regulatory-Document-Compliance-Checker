@@ -1,0 +1,1 @@
+Write-Host 'Create search index placeholder'
